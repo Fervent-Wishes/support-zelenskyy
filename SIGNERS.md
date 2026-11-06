@@ -1,6 +1,5 @@
-Sean Patrick Talbot
-@SeanPatrickTalbot
-Louisville, KY, USA
+NAME	HANDLE	LOCATION
+Sean Patrick Talbot	@SeanPatrickTalbot	Louisville, KY, USA
 
 --
 
